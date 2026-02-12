@@ -103,3 +103,18 @@ The solution bridges operational metrics with executive strategy by delivering:
 ## 🚀 Project Significance
 
 This project demonstrates the effective integration of cloud-based data sources with advanced Power BI modeling to deliver executive-level real estate insights that support strategic pricing and investment decisions.
+
+---
+
+---
+
+## 📷 Dashboard Screenshots
+
+### 🏠 House Market Overview
+![House Market Overview](Screenshots/House%20Market%20Overview.png)
+
+### 📊 Sales Performance
+![Sales Performance](Screenshots/Sales%20Performance.png)
+
+### 🏡 House Type Analysis
+![House Type Analysis](Screenshots/House%20Type%20Analysis.png)
